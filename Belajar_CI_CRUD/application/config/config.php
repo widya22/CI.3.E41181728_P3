@@ -23,7 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = '';
+//Base URL berfungsi untuk menentukan alamat atau URL yang akan digunakan oleh web
+$config['base_url'] = 'http://localhost/CI.3.E41181728_P3/Belajar_CI_CRUD/';
 
 /*
 |--------------------------------------------------------------------------
